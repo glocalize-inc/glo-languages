@@ -157,7 +157,7 @@ export const GloLanguageEnum = {
   "th" : { name: "Thai", isEnuffEnabled: false },
   "ti" : { name: "Tigrinya", isEnuffEnabled: false },
   "tk" : { name: "Turkmen", isEnuffEnabled: false },
-  "tl" : { name: "Tagalog", isEnuffEnabled: false },
+  "tl" : { name: "Tagalog", isEnuffEnabled: true },
   "tn" : { name: "Tswana", isEnuffEnabled: false },
   "to" : { name: "Tonga (Tonga Islands)", isEnuffEnabled: false },
   "tr" : { name: "Turkish", isEnuffEnabled: false },
